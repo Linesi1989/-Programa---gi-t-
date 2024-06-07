@@ -1,0 +1,3 @@
+cat > kotlin.txt  
+git add .   
+> git commit -m 
